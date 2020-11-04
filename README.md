@@ -8,8 +8,8 @@ Check out the [demo](https://restcountries-8084onzmm.vercel.app)
 
 ## Installation
 
-Navigate to the project root folder, in your terminal type in npm install, once the node_modules are installed type in npm run dev.
-Go to http://localhost:3000
+Navigate to the project root folder, in your terminal type in `npm install`, once the node_modules are installed type in `npm run dev`.
+Go to `http://localhost:3000`.
 
 ## Usage
 ### Landing Page
